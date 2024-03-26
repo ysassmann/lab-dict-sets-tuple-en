@@ -1,4 +1,4 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Lab | Dicts, Sets, and Tuples
 
@@ -20,10 +20,7 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 
 ## References
 
-[How to check if a tuple contains an element in Python?](https://stackoverflow.com/questions/17920147/how-to-check-if-a-tuple-contains-an-element-in-python)
-
-[Python Sets Examples and Methods](https://www.w3schools.com/python/python_sets.asp)
-
-[Python Dictionary Examples and Methods](https://www.w3schools.com/python/python_dictionaries.asp)
-
-[How to sort a dictionary by values in Python](http://thomas-cokelaer.info/blog/2017/12/how-to-sort-a-dictionary-by-values-in-python/)
+- [How to check if a tuple contains an element in Python?](https://stackoverflow.com/questions/17920147/how-to-check-if-a-tuple-contains-an-element-in-python)
+- [Python Sets Examples and Methods](https://www.w3schools.com/python/python_sets.asp)
+- [Python Dictionary Examples and Methods](https://www.w3schools.com/python/python_dictionaries.asp)
+- [How to sort a dictionary by values in Python](http://thomas-cokelaer.info/blog/2017/12/how-to-sort-a-dictionary-by-values-in-python/)
