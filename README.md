@@ -12,7 +12,7 @@ Respond to the questions in Challenge 1, 2, and 3. Refer to the references if yo
 
 ## Deliverables
 
-- `challenge-1.ipynb`, `challenge-2.ipynb`, and `challenge-3.ipynb` with your responses to each of the exercises.
+- `challenges.ipynb` with your responses to each of the exercises.
 
 ## Submission
 
